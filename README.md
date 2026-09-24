@@ -3,10 +3,15 @@
 Card artwork for `resources/[custom]/iconic-tradingcards` on the iconic server.
 
 ```
-cards/a/    A rank   (80% of pack pulls)
-cards/s/    S rank   (15%)
-cards/sp/   S+ rank  ( 5%)  - currently all the same "PICK AGAIN" placeholder,
-                             replace a file to give that card its own art
+cards/a/      A rank cards    70   (80% of a Mystery Card pull)
+cards/s/      S rank cards    49   (15%)
+cards/sp/     S+ rank cards   31   ( 5%)  - all the same "PICK AGAIN" placeholder
+                                            for now, replace a file to give that
+                                            card its own art
+figures/a/    A rank figures  31   (80% of a Mystery Box pull)
+figures/s/    S rank figures  25   (15%)
+figures/sp/   S+ rank figures 17   ( 5%)
+packs/        the two pack items (Mystery Box / Mystery Card)
 cards/backcard.png   face-down card back
 ```
 
